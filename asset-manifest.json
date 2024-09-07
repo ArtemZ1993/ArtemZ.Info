@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ArtemZ.Info/static/css/main.bb790ebb.css",
+    "main.css": "/ArtemZ.Info/static/css/main.221eb819.css",
     "main.js": "/ArtemZ.Info/static/js/main.68917b0f.js",
     "index.html": "/ArtemZ.Info/index.html",
-    "main.bb790ebb.css.map": "/ArtemZ.Info/static/css/main.bb790ebb.css.map",
+    "main.221eb819.css.map": "/ArtemZ.Info/static/css/main.221eb819.css.map",
     "main.68917b0f.js.map": "/ArtemZ.Info/static/js/main.68917b0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb790ebb.css",
+    "static/css/main.221eb819.css",
     "static/js/main.68917b0f.js"
   ]
 }
